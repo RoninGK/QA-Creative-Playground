@@ -1,1 +1,1 @@
-# GabrielCervatiuc-personal
+# QA Test - example 1
